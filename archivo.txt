@@ -1,1 +1,1 @@
-hola mundo
+hola mundo estamos aprendiendo Git y GitHub
